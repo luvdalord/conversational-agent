@@ -1,11 +1,11 @@
-# Conversational Agent: Movie Assistant [![Build Status](https://travis-ci.org/watson-developer-cloud/conversational-agent-application-starter-kit.svg?branch=master)](https://travis-ci.org/watson-developer-cloud/conversational-agent-application-starter-kit)
+# Conversational Agent: Movie Assistant [![Build Status](https://travis-ci.org/watson-developer-cloud/conversational-agent-application-starter-kit.svg?branch=master)](https://travis-ci.org/watson-developer-cloud/conversational-agent)
 
-This application is an **Application Starter Kit** (ASK) that is
+This application is an **Starter Kit** (SK) that is
 designed to get you up and running quickly with a common industry pattern, and to provide information about best practices around Watson services. This application was created to highlight the combination of the [Dialog][dialog] and [Natural Language Classifier][classifier] (NLC) services as a [Conversational Agent](#about-the-conversational-agent-pattern). This application can serve as the basis for your own applications that follow that pattern. Another application that demonstrates this pattern is the [What's in Theaters](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/gallery.html#whats-in-theaters) application that is available in the Watson Developer Cloud website's [Application Gallery](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/gallery.html).
 
 Give it a try! Click the button below to fork the repository that contains the source code for this application into IBM DevOps Services, which then deploys your own copy of this application on Bluemix automatically:
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/watson-developer-cloud/conversational-agent-application-starter-kit)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/watson-developer-cloud/conversational-agent)
 
 You can see a version of this app that is already running by clicking
 [here](https://conversational-agent-application-starter-kit.mybluemix.net/).
